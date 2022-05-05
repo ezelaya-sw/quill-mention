@@ -1,8 +1,8 @@
 import Quill from "quill";
 
-const Embed = Quill.import("blots/embed");
+const Inline = Quill.import("blots/inline");
 
-class MentionBlot extends Embed {
+class MentionBlot extends Inline {
   hoverHandler;
 
   constructor(scroll, node) {
