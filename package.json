@@ -1,11 +1,11 @@
 {
-  "name": "quill-mention",
-  "version": "3.1.0",
+  "name": "quill-mention-sw",
+  "version": "3.1.1",
   "description": "@mentions for the Quill rich text editor",
   "homepage": "https://quill-mention.com/",
   "main": "dist/quill.mention.csj.js",
   "module": "dist/quill.mention.esm.js",
-  "repository": "https://github.com/quill-mention/quill-mention.git",
+  "repository": "https://github.com/ezelaya-sw/quill-mention/quill-mention.git",
   "author": "Fredrik Sundqvist <fsundqvist@gmail.com>",
   "license": "MIT",
   "files": [
